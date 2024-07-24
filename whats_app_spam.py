@@ -5,7 +5,7 @@ from datetime import datetime, timedelta
 
 
 def send_whats_app_message(hour, minute):
-    kit.sendwhatmsg("+4917657966853", "Howdy, I'm Bob, and I sell hardware. Nice to meet you!", hour, minute, tab_close=True)
+    kit.sendwhatmsg("Enter number here", "Howdy, I'm Bob, and I sell hardware. Nice to meet you!", hour, minute, tab_close=True)
 
 
 while True:
