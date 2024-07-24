@@ -1,3 +1,9 @@
+#instructions: install vs code 
+#install python
+#run pip install pywhatkit
+#register in whatsapp webbrowser 
+#run the code
+
 import pywhatkit as kit
 from time import sleep
 from datetime import datetime, timedelta
